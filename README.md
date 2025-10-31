@@ -13,7 +13,7 @@ Using SQL along with Python for visualizations, this analysis examines Diwali sa
 ## Tech Stack
 🛠️Python (Pandas, NumPy, Matplotlib, Seaborn, Pyodbc)
 
-🛠️MS SQL Server
+🛠️Microsoft SQL Server
 
 🛠️Jupyter Notebook
 ## Outcomes
