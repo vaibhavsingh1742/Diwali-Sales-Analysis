@@ -10,3 +10,9 @@ Using SQL along with Python for visualizations, this analysis examines Diwali sa
 ✅ Insights on gender, age group, occupation, states, and product categories
 
 ✅ Identification of top-performing products and high-revenue segments
+## Tech Stack
+🛠️Python (Pandas, NumPy, Matplotlib, Seaborn, Pyodbc)
+
+🛠️MS SQL Server
+
+🛠️Jupyter Notebook
