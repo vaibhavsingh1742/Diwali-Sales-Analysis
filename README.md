@@ -16,3 +16,9 @@ Using SQL along with Python for visualizations, this analysis examines Diwali sa
 🛠️MS SQL Server
 
 🛠️Jupyter Notebook
+## Outcomes
+🎯Target customer segments and purchasing trends across Diwali sales data
+
+🎯Analytical findings for improved marketing and product performance.
+
+🎯Visual narratives that highlight key sales insights and business opportunities.
