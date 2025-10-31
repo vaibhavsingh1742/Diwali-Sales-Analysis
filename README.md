@@ -1,7 +1,7 @@
 # Diwali Sales Analysis
 Using SQL along with Python for visualizations, this analysis examines Diwali sales data to understand customer preferences, highlight top-performing products, and track key sales trends providing insights to enhance festive season marketing strategies. 📈
 
-*requires setup of the diwali_sales_data.csv file imported to a MS SQL Server database that has sufficient connection permissions to work with pyodbc*
+*requires setup of the 'Diwali Sales Data.csv' file imported to a MS SQL Server database that has sufficient connection permissions to work with pyodbc*
 
 ## Key Features
 ✅ Data cleanup with Pandas & NumPy
